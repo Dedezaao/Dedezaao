@@ -1,0 +1,13 @@
+{
+  "creator": "Ricardo André / Codex",
+  "method": "Authored geometry, text and timeline; Pillow renderer",
+  "source": "output/profile-studio/build.py",
+  "font": {
+    "family": "Sora",
+    "source": "https://github.com/google/fonts/tree/main/ofl/sora",
+    "license": "SIL Open Font License 1.1"
+  },
+  "duration_seconds": 8,
+  "fps": 20,
+  "loop": true
+}
