@@ -7,17 +7,6 @@
 
 Sou **Analista de Testes e Qualidade na DTec/UNIFOR** e estudante de **Ciência da Computação**. Trabalho com testes funcionais, automação e performance — e também gosto de transformar ideias em software.
 
-### Projetos selecionados
-
-**[Bothoven ↗](https://github.com/Dedezaao/Bothoven_Bot-Discord)**  
-Bot musical para Discord, feito em Elixir, com integração a APIs e persistência de favoritos.
-
-**[Projeto Gravata ↗](https://github.com/Dedezaao/SiteJogoGravata)**  
-Uma experiência digital para a tradicional brincadeira da gravata em casamentos.
-
-**[PortfolioWeb ↗](https://github.com/Dedezaao/PortfolioWeb)**  
-Meu espaço de apresentação na web, construído com HTML, CSS e JavaScript.
-
 ### Ferramentas do dia a dia
 
 **Qualidade** · Cypress · k6 · JMeter · Jira/Xray  
